@@ -1,0 +1,24 @@
+{
+  "name": "crushing_knex",
+  "version": "1.0.0",
+  "description": "## Objectives",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhlindell/crushing_knex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhlindell/crushing_knex/issues"
+  },
+  "homepage": "https://github.com/jhlindell/crushing_knex#readme",
+  "dependencies": {
+    "knex": "^0.13.0",
+    "pg": "^7.1.2"
+  }
+}
